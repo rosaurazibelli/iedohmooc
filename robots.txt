@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oomeliephi.walkupinda.club/sitemap.xml
